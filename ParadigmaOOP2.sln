@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polimorpi", "polimorpi\poli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{C25202CF-3D9E-4D7D-A910-26161989EF47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noOverriding", "noOverriding\noOverriding.vcxproj", "{0187D4C3-6905-4EED-8490-3FE1EDA4F041}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C25202CF-3D9E-4D7D-A910-26161989EF47}.Release|x64.Build.0 = Release|x64
 		{C25202CF-3D9E-4D7D-A910-26161989EF47}.Release|x86.ActiveCfg = Release|Win32
 		{C25202CF-3D9E-4D7D-A910-26161989EF47}.Release|x86.Build.0 = Release|Win32
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Debug|x64.ActiveCfg = Debug|x64
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Debug|x64.Build.0 = Debug|x64
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Debug|x86.ActiveCfg = Debug|Win32
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Debug|x86.Build.0 = Debug|Win32
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Release|x64.ActiveCfg = Release|x64
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Release|x64.Build.0 = Release|x64
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Release|x86.ActiveCfg = Release|Win32
+		{0187D4C3-6905-4EED-8490-3FE1EDA4F041}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
