@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class AbstaksiKlas
+class AbstraksiKlas
 {
 private: string x, y;
 
@@ -23,5 +23,5 @@ public:
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    AbstraksiKlas ak;
 }
