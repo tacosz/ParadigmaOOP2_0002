@@ -14,10 +14,11 @@ public:
     {
         return saklarNo[i];
     }
-
 };
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    remoteLampu lampuRumah;
+
+    
 }
